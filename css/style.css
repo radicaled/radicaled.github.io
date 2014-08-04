@@ -1,0 +1,16 @@
+body {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+/* Prototyping / keeping track of font wizadry */
+.modern {
+  font-family: 'Audiowide', cursive;
+}
+
+.elite {
+  font-family: 'Special Elite', cursive;
+}
+
+.marked {
+  font-family: 'Permanent Marker', cursive;
+}
