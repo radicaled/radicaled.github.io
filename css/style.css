@@ -1,5 +1,6 @@
 body {
   font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
 }
 
 /* Prototyping / keeping track of font wizadry */
@@ -12,5 +13,13 @@ body {
 }
 
 .marked {
+  font-family: 'Permanent Marker', cursive;
+}
+
+h1, h2 {
+  font-family: 'Special Elite', cursive;
+}
+
+h3 {
   font-family: 'Permanent Marker', cursive;
 }
